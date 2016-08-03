@@ -1,4 +1,4 @@
-AuthUserFile /home/groups/o/op/openclinic/.htpasswd
+AuthUserFile /wamp64/www/openclinic/.htpasswd
 AuthName openclinic
 AuthType Basic
 

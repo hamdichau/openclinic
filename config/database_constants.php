@@ -24,7 +24,7 @@
  */
   define("OPEN_HOST",       "localhost");
   define("OPEN_DATABASE",   "openclinic");
-  define("OPEN_USERNAME",   "root");
-  define("OPEN_PWD",        "");
+  define("OPEN_USERNAME",   "openclinic_user");
+  define("OPEN_PWD",        "1111");
   define("OPEN_PERSISTENT", true);
 ?>
